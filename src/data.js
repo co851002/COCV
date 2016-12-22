@@ -73,10 +73,10 @@ const projects = [
   {
     title: 'Mosaic Product Upgrade - Vibrant Media',
     meta: 'Creative Developer',
-    description: 'Responsibilities included: Rebuild legacy "Mosaic" product to enable communication with their new ad-server and CRM. I am involved within the design, build, QA and documentation of this product and templatising for faster campaign setup',
+    description: 'Responsibilities included: Rebuild legacy "Mosaic" product to enable communication with their new ad-server and CRM. I was involved within the design, build, QA and documentation of this product and templatising for faster campaign setup',
     images: [
       {
-        thumbnail: 'http://demos.vibrantmedia.com/demos/vibrantdemos/UKCreative/DemoGallery/demos/images/HPMosaic2_Thumb.jpg',
+        thumbnail: '//demos.vibrantmedia.com/demos/vibrantdemos/UKCreative/DemoGallery/demos/images/HPMosaic2_Thumb.jpg',
         original: 'https://placehold.it/900x900'
       },
       {
@@ -90,7 +90,7 @@ const projects = [
     ]
   },
   {
-    title: 'Launch In-View Product - Vibrant Media',
+    title: 'In-View Product - Vibrant Media',
     meta: 'Creative Developer',
     description: 'Responsibilities included: Design, build and documentation for a template to be used by campaign maagement for the launch of the new "In-View" product. Continuous upgrades to add additional functionality ie video tracking, billing methods, rich media etc. ',
     images: [
