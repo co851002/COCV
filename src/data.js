@@ -2,7 +2,7 @@ const introduce = {
   name: 'Christo Oosthuizen',
   jobTitle: 'Front-End Developer',
   livedIn: 'London, UK',
-  summary: 'Experienced Front-end Developer with a demonstrated history of working in the marketing and advertising industry. Skilled in Web and SPA development using Javascript, HTML, Sass, API\'s, ReactJS, VueJS etc. Strong engineering professional with a Bachelor of Science (B.Sc.) Hons. focused in Computer Software Engineering from University of Greenwich. '
+  summary: 'Experienced Front-end Developer with a demonstrated history of working in the marketing and advertising industry. Skilled in Web and SPA development using Javascript, HTML, SASS, REST API\'s, ReactJS, VueJS etc. Strong engineering professional with a Bachelor of Science (B.Sc.) Hons. focused in Computer Software Engineering from the University of Greenwich. Currently looking to strenghten his Javascript skills and further his career toward a Fullstack Developer with the latest JS syntax, tools and frameworks.'
 }
 
 const experiences = [
@@ -12,10 +12,10 @@ const experiences = [
     duration: 'Nov, 2015 – Current',
     description: 'Working for an international Ad tech company as a Front-End Developer within an Agile team of software engineers, designers, campaign managers and other stakeholders.',
     highlights: [
-      'Design and build bespoke cross-browser CPC and CPE units that fits specific creative requirements and functionality using vanilla JavaScript, HTML5 and CSS3 for desktop, tablet and mobile devices.',
+      'Design and build bespoke cross-browser, responsive CPC and CPE products that fits specific creative requirements and functionality using vanilla JavaScript, HTML5 and CSS3',
       'Using the latest JS frameworks to build internal tools to optimize team workflow while maintaining internal API\'s and adding new functionality when needed. Integrate bespoke and custom ad units with 3rd party social media API\'s.',
       'Attend client meetings to advise on the scope and functionality of current products and discuss custom solutions to meet the advertisers KPI\'s before designing and building bespoke HTML banners, home page takeovers, websites or microsites ',
-      'Create bespoke solutions to integrate with other technology partners (DoubleClick, Sizemek  Celtra, Criteo)',
+      'Create bespoke solutions to integrate with other technology partners (DoubleClick, Sizemek, Celtra, Criteo)',
       'Advise and train other departments on new ad tech products and frameworks while supporting international teams in Germany and USA'
     ]
   },
@@ -25,7 +25,7 @@ const experiences = [
     duration: 'Apr, 2015 – Nov, 2015',
     description: 'Design & Build bespoke websites for top independant schools in The UK and abroad',
     highlights: [
-      'Design bespoke Adobe Photoshop web designs based on client requirements and branding guidelines.',
+      'Web designs with Adobe Photoshop based on client requirements and branding guidelines.',
       'Converting PSD designs to responsive HTML5 CSS3 sites.',
       'Building HTML5 CSS3 JavaScript AJAX pages using jQuery and css frameworks.',
       'Integrating static website builds with a custom .NET CMS.'
@@ -71,12 +71,12 @@ const educations = [
 
 const projects = [
   {
-    title: 'Project 1',
-    meta: 'Propulsion Engineer',
-    description: 'Responsibilities included: writing technical reports and other documentation, such as handbooks and bulletins, for use by engineering staff, management, and customers, analyzing project requests and proposals and engineering data to determine feasibility, predictability, cost, and production time of aerospace or aeronautical product.',
+    title: 'Mosaic Product Upgrade - Vibrant Media',
+    meta: 'Creative Developer',
+    description: 'Responsibilities included: Rebuild legacy "Mosaic" product to enable communication with their new ad-server and CRM. I am involved within the design, build, QA and documentation of this product and templatising for faster campaign setup',
     images: [
       {
-        thumbnail: 'https://vuejs.org/images/logo.png',
+        thumbnail: 'http://demos.vibrantmedia.com/demos/vibrantdemos/UKCreative/DemoGallery/demos/images/HPMosaic2_Thumb.jpg',
         original: 'https://placehold.it/900x900'
       },
       {
@@ -90,9 +90,9 @@ const projects = [
     ]
   },
   {
-    title: 'Project 1',
-    meta: 'Propulsion Engineer',
-    description: 'Responsibilities included: writing technical reports and other documentation, such as handbooks and bulletins, for use by engineering staff, management, and customers, analyzing project requests and proposals and engineering data to determine feasibility, predictability, cost, and production time of aerospace or aeronautical product.',
+    title: 'Launch In-View Product - Vibrant Media',
+    meta: 'Creative Developer',
+    description: 'Responsibilities included: Design, build and documentation for a template to be used by campaign maagement for the launch of the new "In-View" product. Continuous upgrades to add additional functionality ie video tracking, billing methods, rich media etc. ',
     images: [
       {
         thumbnail: 'https://vuejs.org/images/logo.png',
