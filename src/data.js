@@ -76,7 +76,7 @@ const projects = [
     description: 'Responsibilities included: Rebuild legacy "Mosaic" product to enable communication with their new ad-server and CRM. I was involved within the design, build, QA and documentation of this product and templatising for faster campaign setup',
     images: [
       {
-        thumbnail: '//demos.vibrantmedia.com/demos/vibrantdemos/UKCreative/DemoGallery/demos/images/HPMosaic2_Thumb.jpg',
+        thumbnail: 'https://vuejs.org/images/logo.png',
         original: 'https://placehold.it/900x900'
       },
       {
